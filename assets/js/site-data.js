@@ -12,12 +12,12 @@ window.TEMPLE_DATA = {
     { name: 'Yashpal Jesingh', role: 'Matrimonial Coordinator', phone: '+91 98914 93433', photo: 'https://i.pravatar.cc/200?img=48' },
   ],
   donation: {
-    beneficiary: 'Shri Durga Mandir Sabha (Sample Only)',
-    bank: 'Demo National Bank',
-    account: '0000 0000 0000 0000',
-    ifsc: 'DEMO0000000',
-    branch: 'Faridabad Demo Branch',
-    upi: 'Not configured — QR coming soon'
+    beneficiary: 'Shri Durga Mandir Sabha',
+    bank: 'UCO Bank',
+    account: '0390 0100 0061 47',
+    ifsc: 'UCBA0000390',
+    branch: 'Faridabad Main',
+    upi: '9810681718@ucobank'
   },
   mapUrl: 'https://www.google.com/maps?cid=5383188781301651617',
   directionsUrl: 'https://www.google.com/maps/dir/?api=1&destination=3D%2F46%20BP%2C%20NIT%20Faridabad%2C%20Haryana%20121001&travelmode=driving'
