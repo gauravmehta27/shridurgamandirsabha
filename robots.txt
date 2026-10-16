@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shridurgamandirsabha.co.in/sitemap.xml

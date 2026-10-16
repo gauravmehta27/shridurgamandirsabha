@@ -58,6 +58,13 @@ All key website illustrations are bundled locally. Google Fonts, sample contact 
 
 Upload the folder contents to GitHub Pages, Netlify, Vercel (static mode), or any traditional web host. Set the publish directory to the folder containing `index.html`. There is no build step.
 
+## Search engine setup
+
+- Each page includes a unique title and description, canonical URL, social-sharing metadata, and JSON-LD structured data for the temple and page breadcrumbs.
+- `robots.txt` allows public pages to be crawled and points to `sitemap.xml`, which lists all six public pages.
+- The canonical URLs use `https://shridurgamandirsabha.co.in/` from the repository's `CNAME`. Keep these files in the published root and update the canonical URLs, sitemap, and robots sitemap reference together if the domain changes.
+- After launch, verify the domain in Google Search Console and Bing Webmaster Tools, submit the sitemap, and confirm that the live URLs resolve over HTTPS. Search indexing and rankings are not guaranteed by metadata alone.
+
 ## Notes
 
 - The `assets/images/maa-durga.jpg` devotional image was generated for this design. Its image is representational, not an actual photograph of the listed temple.
